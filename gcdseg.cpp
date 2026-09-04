@@ -60,7 +60,7 @@ int main() {
         freopen(name ".out", "w", stdout);
     }
 
-    if (!(cin >> n >> q)) return 0;
+    cin >> n >> q;
     fof(i, 1, n) cin >> a[i];
 
     build(1, 1, n);
