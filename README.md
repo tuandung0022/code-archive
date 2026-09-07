@@ -1,2 +1,2 @@
-# code-solutions
-My repo to save code solution
+# code-archive
+Most of the solutions are here
