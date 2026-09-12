@@ -42,5 +42,3 @@ Kỹ thuật đỉnh ảo là một pattern chung, xuất hiện trong nhiều d
 ## Tóm gọn trực giác
 
 Đỉnh ảo giống như việc bạn "gian lận nhẹ" bằng cách tạo ra một điểm trung tâm giả định, biến bài toán nhiều-nguồn/nhiều-đích thành bài toán một-nguồn/một-đích chuẩn — nhờ đó tận dụng được toàn bộ thuật toán kinh điển (Kruskal, Prim, Dijkstra, BFS, Max-flow...) mà không cần phát minh lại thuật toán mới. Đây là một trong những "vũ khí" nên nằm lòng khi làm VNOI, vì nó xuất hiện lặp lại rất nhiều trong các bài multi-source/multi-sink.
-
-Nếu bạn muốn, tôi có thể đưa thêm 1-2 bài tập VNOI cụ thể khác dùng đúng kỹ thuật này để bạn luyện phản xạ nhận diện pattern — bạn có muốn không?
