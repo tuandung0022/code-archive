@@ -60,6 +60,7 @@ int main(){
         edge.push_back({u,v,w});
     }
     ll t = 0;
+    sort(edge.begin(),edge.end());
     for(Edge e:edge){
         if (unite(e.u,e.v)){
             t += e.w;
